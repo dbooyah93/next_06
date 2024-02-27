@@ -1,3 +1,4 @@
+// a file dedicated to formating data for this lesson
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
