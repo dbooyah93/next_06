@@ -5,7 +5,7 @@ type Post = {
     post: BlogPost
 }
 
-export default function ListItem({ post }: Props) {
+export default function ListItem({ post }: Post) {
     const { id, title, date  } = post
     const formattedDate = getFormattedDate(date)
 

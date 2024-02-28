@@ -1,3 +1,5 @@
+I have to lean into this. Write down: "I have to stay learning, learn things over the weekends or 2hrs every night. It's fun and easy to rapidly build and learn."
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
